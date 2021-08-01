@@ -17,7 +17,10 @@ CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://tw
 <p align="center">A summary of organizations in which I participate.</p>
 
 | <a href="https://github.com/mejorlaf" target="_blank">**FM887!**</a> | 
-| <a href="https://github.com/fembedteam" target="_blank">**Fembed Team**</a>
+| <a href="https://github.com/fembedteam" target="_blank">**Fembed Team**</a> |
+
+|:---: | :---: | :---: | :---:|
+| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/47249069?s=200&v=4' height='100px'> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
