@@ -1,6 +1,6 @@
 # BIO
 
-![](https://komarev.com/ghpvc/?username=elb1to&color=gray)
+![](https://komarev.com/ghpvc/?username=Elb1to&color=gray)
 
 
 ```javascript
