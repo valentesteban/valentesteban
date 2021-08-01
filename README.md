@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=44925968)
 <img align='left' src='https://raw.githubusercontent.com/valentesteban/valentesteban/master/images/bat.gif' width='20%'>  
 <img align='right' src='https://raw.githubusercontent.com/valentesteban/valentesteban/master/images/explosion.gif' width='20%'>
 
