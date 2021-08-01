@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/Vnc9VTF.png">
 
+```javascript
 const esteban = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "Python", "Java", "Ruby", "Rust"],
@@ -22,3 +23,4 @@ const esteban = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
