@@ -2,7 +2,7 @@
 
 <h1 align="center">Biography</h2>
 
-## About me
+<h2 align="center">Do you want to know who i am?</h2>
 I'm a software engineer, designer and team manager.
 
 ## What i'm currently doing?
