@@ -29,4 +29,5 @@ const esteban = {
 ```
 ## <img src="https://64.media.tumblr.com/c62d70d420acfe64b98809c51c3a9539/tumblr_mwlmzqRGf61rk1qp5o1_500.gif" width="50"> Projects
 
-Last edited on: 1/08/2021 ♥
+<h2 align="center">Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
