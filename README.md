@@ -18,7 +18,7 @@ CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://tw
 
 | <a href="https://github.com/mejorlaf" target="_blank">**FM887!**</a> | <a href="https://github.com/fembedteam target="_blank">**Fembed**</a> |
 |:---: | :---: | :---: | :---:|  
-|<img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | 
+|<img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> 
 |<img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> |
   
 | <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | 
