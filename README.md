@@ -16,7 +16,11 @@ CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://tw
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
-| <a href="https://github.com/mejorlaf" target="_blank">**FM887!**</a> | | <a href="https://github.com/fembedteam" target="_blank">**Fembed Team**</a>
+| <a href="https://github.com/mejorlaf" target="_blank">**FM887!**</a> | 
+| <a href="https://github.com/fembedteam" target="_blank">**Fembed Team**</a>
+
+<h2 align="center">Skills</h2>
+<p align="center">A summary of my programming skills.</p>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
