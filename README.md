@@ -27,4 +27,6 @@ const esteban = {
     currentProject: "I am currently learning more about Python",
 };
 ```
+## <img src="https://www.fromanniek.com/wp-content/uploads/2018/06/0587f251249217.58e7079c0894c.gif" width="50"> Projects
+
 Last edited on: 1/08/2021 ♥
