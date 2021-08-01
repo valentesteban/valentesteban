@@ -1,8 +1,7 @@
-<img src="https://i.imgur.com/Vnc9VTF.png">
+# BIO
 
-____
+![](https://komarev.com/ghpvc/?username=elb1to&color=gray)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me..
 
 ```javascript
 const esteban = {
