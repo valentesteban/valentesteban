@@ -5,7 +5,7 @@
 <h2 align="center">Do you want to know who i am?</h2>
 <p align="center">I'm a software engineer, designer and team manager.</p>
 
-<h2 align="center">Do you want to know who i am?</h2>
+<h2 align="center">What i am learning?</h2>
 <p align="center">Currently i'm learning more about Python and Ruby.</p>
 
 <h2 align="center">Pinned Repositories</h2>
