@@ -2,7 +2,7 @@
 
 CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://twitter.com/logout).
 
-<p align="center">Contact me via Email: contact@valentesteban.com</b></p>
+<p align="center">Contact me via Email: <b>contact@valentesteban.com</b></p>
 
 ```javascript
 const esteban = {
