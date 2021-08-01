@@ -3,10 +3,10 @@
 <h1 align="center">Biography</h2>
 
 <h2 align="center">Do you want to know who i am?</h2>
-I'm a software engineer, designer and team manager.
+<p align="center">I'm a software engineer, designer and team manager.</p>
 
-## What i'm currently doing?
-Currently i'm learning more about Python and Ruby.
+<h2 align="center">Do you want to know who i am?</h2>
+<p align="center">Currently i'm learning more about Python and Ruby.</p>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
