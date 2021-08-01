@@ -5,7 +5,8 @@
 CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://twitter.com/logout).
 
 🔒 Security  ☁️ Networking, 🌎 Astronomy, 
-🧪 Chemistry, 💻 FullStack.  
+🧪 Chemistry, 
+💻 FullStack.  
 
 <p align="center">Contact me via Email: <b>contact@valentesteban.com</b></p>
 
