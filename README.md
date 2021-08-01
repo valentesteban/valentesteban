@@ -3,11 +3,9 @@
 # Welcome to my GitHub profile!
 
 ## About me
-
 I'm a software engineer, designer and team manager.
 
 ## What i'm currently doing?
-
 Currently i'm learning more about Python and Ruby.
 
 
