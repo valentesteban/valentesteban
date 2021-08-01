@@ -8,4 +8,6 @@ I'm a software engineer, designer and team manager.
 ## What i'm currently doing?
 Currently i'm learning more about Python and Ruby.
 
+## Popular repositories
+Take a look at my most outstanding repositories.
 
