@@ -2,5 +2,5 @@
 
 # Welcome to my GitHub profile!
 
-I'm a software engineer, designer and team manager.
-Currently learning more about Python and Ruby.
+<p>I'm a software engineer, designer and team manager.</p>
+<p>Currently learning more about Python and Ruby.</p>
