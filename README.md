@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/valentesteban/valentesteban/master/images/bat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/valentesteban/valentesteban/master/images/explosion.gif' width='20%'>
+<img align='left' src='https://i.pinimg.com/originals/24/58/49/24584999ee59adbe8509215427431e7c.gif' width='20%'>  
+<img align='right' src='http://pa1.narvii.com/6995/90e0ada08036dcf01e3f640bf6dde1d377d99757r1-200-200_00.gif' width='20%'>
 
 # BIO
 CEO on [Fembed Team](https://github.com/fembedteam) and [PlusDefense](https://twitter.com/logout).
